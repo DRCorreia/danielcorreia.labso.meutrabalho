@@ -1,0 +1,9 @@
+alex1.txt
+alex2.txt
+alex3.txt
+final.txt
+pasta1
+pasta2
+pasta3
+trabalho1.2019
+ultimocomando.txt
